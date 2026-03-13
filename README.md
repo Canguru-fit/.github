@@ -74,4 +74,11 @@ Ao exportar o ícone para as lojas de aplicativos (App Store / Google Play), sig
 3. **Fundo Ação:** Fundo Laranja Ação (`#FF8C42`) com ícone Branco (Ideal para destaque máximo).
 
 ---
+
+## 6. Guia Visual
+### 6.1 White
+
+### 6.2 Dark
+
+
 *Documentação gerada para a equipe de UI/UX e Desenvolvimento do Canguru Fit.*
