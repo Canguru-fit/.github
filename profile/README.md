@@ -1,4 +1,16 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Canguru Fit Banner" width="100%">
+</p>
+
 # 🦘 Canguru Fit - Brand Guidelines & UI Specs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/SST-FF4A00?style=for-the-badge&logo=SST&logoColor=white" alt="SST">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
 
 Bem-vindo à documentação oficial de identidade visual do aplicativo **Canguru Fit**. Este guia define os padrões de uso para logotipos, cores, tipografia e elementos visuais para garantir consistência em todas as plataformas.
 
@@ -12,9 +24,14 @@ O **Canguru Fit** une a agilidade, força e impulsão do canguru ao dinamismo do
 
 ## 2. Logotipo
 
-O logotipo é composto por um ícone de canguru em salto estilizado com linhas contínuas e uma tipografia robusta.
+O logotipo é composto por um ícone de canguru em salto estilizado com lines contínuas e uma tipografia robusta.
 
 ### Variações Oficiais
+
+<p align="center">
+  <img src="assets/logo-light.png" alt="Logo Primário Canguru Fit" height="60">
+  <img src="assets/logo-dark.png" alt="Logo Secundário Canguru Fit" height="60">
+</p>
 
 - **Primária (Light Mode):** Ícone Marrom Metálico e texto Marrom escuro em fundo claro.
 - **Secundária (Dark Mode):** Ícone Marrom Metálico/Bronze e texto Branco em fundo escuro.
@@ -73,6 +90,12 @@ Para manter a legibilidade em telas de todos os tamanhos e transmitir força, us
 
 Ao exportar o ícone para as lojas de aplicativos (App Store / Google Play), siga as seguintes variações:
 
+<p align="center">
+  <img src="assets/app-icon-dark.png" alt="App Icon Dark" height="100">
+  <img src="assets/app-icon-light.png" alt="App Icon Light" height="100">
+  <img src="assets/app-icon-action.png" alt="App Icon Action" height="100">
+</p>
+
 1. **Fundo Dark:** Fundo `#1A1C1E` com ícone Laranja Ação ou Branco.
 2. **Fundo Light:** Fundo `#F7F5F0` com ícone Marrom Metálico ou Preto.
 3. **Fundo Ação:** Fundo Laranja Ação (`#FF8C42`) com ícone Branco (Ideal para destaque máximo).
@@ -81,8 +104,16 @@ Ao exportar o ícone para as lojas de aplicativos (App Store / Google Play), sig
 
 ## 6. Guia Visual
 
-### 6.1 White
+### 6.1 White Mode
 
-### 6.2 Dark
+<p align="center">
+  <img src="assets/ui-light.png" alt="UI Components Light Mode Preview" width="500">
+</p>
+
+### 6.2 Dark Mode
+
+<p align="center">
+  <img src="assets/ui-dark.png" alt="UI Components Dark Mode Preview" width="500">
+</p>
 
 _Documentação gerada para a equipe de UI/UX e Desenvolvimento do Canguru Fit._
